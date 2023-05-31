@@ -1,0 +1,14 @@
+{
+    "name": "kuhikp/snyk-code",
+    "description": "This is for snyk code verification.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Parag Kuhikar",
+            "email": "parag.kuhikar@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
